@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 <br> I'm Akilesh S</h1>
+<h1 align="center">Hey there! 👋<br>I'm Akilesh S</h1>
 <h3 align="center">A passionate developer and CloudOps Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsakilesh&label=Profile%20views&color=0e75b6&style=flat" alt="itsakilesh" /> </p>
