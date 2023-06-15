@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsakilesh" alt="itsakilesh" /></a> </p>
 
-- 🔭 I’m currently working on **VIT+**
+- 🔭 I’m currently working on **Baymax AI**
 
-- 🌱 I’m currently learning **Swift and React Native**
+- 🌱 I’m currently learning **Android/Java and OpenAI**
 
 - 💬 Ask me about **Movies, TV shows and Development**
 
