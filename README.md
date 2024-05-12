@@ -1,15 +1,15 @@
 <h1 align="center">Hey there! 👋<br>I'm Akilesh S</h1>
-<h3 align="center">A passionate developer and CloudOps Enthusiast</h3>
+<h3 align="center">A passionate developer and CloudOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsakilesh&label=Profile%20views&color=0e75b6&style=flat" alt="itsakilesh" /> </p>
 
-- 🔭 I’m currently working on **Baymax AI**
+- 🔭 I’m currently working on **Podkast AI**
 
 - 🌱 I’m currently learning **Android/Java and OpenAI**
 
 - 💬 Ask me about **Movies, TV shows and Development**
 
-- 📫 How to reach me **akileshworks.now@gmail.com**
+- 📫 How to reach me **s.akilesh@outlook.com**
 
 - ⚡ Fun fact **I think I make quality memes**
 
