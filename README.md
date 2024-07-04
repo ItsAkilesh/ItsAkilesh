@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I think I make quality memes**
 
+- 💼 Here's my <a href="https://1drv.ms/b/s!AuIQmHB1uGgR2Buifwi9o1GIGB2F?e=GnU8nA">resume</a>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
