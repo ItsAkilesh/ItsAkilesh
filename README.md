@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Podkast AI**
 
-- 🌱 I’m currently learning **Android/Java and OpenAI**
+- 🌱 I’m currently learning **WinUI3, .NET and OpenAI**
 
 - 💬 Ask me about **Movies, TV shows and Development**
 
