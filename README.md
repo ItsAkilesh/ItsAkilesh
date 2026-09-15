@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsakilesh&label=Profile%20views&color=0e75b6&style=flat" alt="itsakilesh" /> </p>
 
-- 👨‍💻 All of my projects are available at [itsakilesh.dev](itsakilesh.dev)
+- 👨‍💻 All of my projects are available at [itsakilesh.github.io](itsakilesh.github.io)
 
 - 💬 Ask me about **Movies, TV shows and Computers**
 
-- 📫 How to reach me **s.akilesh@outlook.com**
+- 📫 How to reach me **akilesh.srinivasakumar@gmail.com**
 
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1wUhw38BIAeBYVY-VfRVDKPYZuXQURuPp/view?usp=sharing)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1_3rSBD241Xi988WnRWA9ICLh6wz4DqdB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
